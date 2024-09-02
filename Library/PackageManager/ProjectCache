@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638608362400000000
-    m_Hash: 674148673
+      ticks: 638608892420000000
+    m_Hash: 88295716
   m_LockFileStatus:
     m_FilePath: E:/Cegep/CegepSession5/Jeux videos/Laboratoire 01/Prototype 1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638608362400000000
-    m_Hash: 2931544661
+      ticks: 638608892420000000
+    m_Hash: 1461361737
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
